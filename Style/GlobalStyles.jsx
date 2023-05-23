@@ -1,0 +1,73 @@
+import {StyleSheet} from 'react-native';
+import {RFValue} from 'react-native-responsive-fontsize';
+import {Dimensions} from 'react-native';
+import Feather from 'react-native-vector-icons/Feather';
+export default {
+  COLORS: {
+    blue: '#607EAA',
+    whiteCard: '#F9F5EB',
+    white: '#EAE3D2',
+    active: '#1C3879',
+    inactive: '#FFFFFF80',
+    Gray900: '#18181b',
+    Gray800: '#27272a',
+    Gray700: '#3f3f46',
+    Gray500: '#71717a',
+    borderColor: '#B6AB91',
+    buttonColor: '#F9F5EB',
+    incompleteCard: '#817D74',
+    amber: '#fbbf24',
+  },
+  FONTSIZE: {
+    fontTitle: RFValue(24, 680),
+    fontSubTitle: RFValue(18, 680),
+    fontText: RFValue(16, 680),
+    fontSubText: RFValue(14, 680),
+    fontHeading: RFValue(32, 680),
+    fs_20: RFValue(20, 680),
+  },
+  SIZE: {
+    width: Math.round(Dimensions.get('window').width),
+    height: Math.round(Dimensions.get('window').height),
+  },
+  FONTS: {
+    poppinsBold: 'Poppins-Bold',
+    poppinsMedium: 'Poppins-Medium',
+    poppinsSemiBold: 'Poppins-SemiBold',
+    poppinsRegular: 'Poppins-Regular',
+  },
+  FONTWEIGHT: {
+    w300: 300,
+    w400: 200,
+    w500: 500,
+    w600: 600,
+    w700: 700,
+    w800: 800,
+    w900: 900,
+  },
+  MARGIN: {
+    m5: 5,
+    m10: 10,
+    m15: 15,
+    m20: 20,
+    m25: 25,
+    m30: 30,
+    m35: 35,
+    m40: 40,
+    m45: 45,
+    m50: 50,
+    m85: 85,
+  },
+  PADDING: {
+    p5: 5,
+    p10: 10,
+    p15: 15,
+    p20: 20,
+    p25: 25,
+    p30: 30,
+    p35: 35,
+    p40: 40,
+    p45: 45,
+    p50: 50,
+  },
+};
