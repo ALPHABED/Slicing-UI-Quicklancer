@@ -2,7 +2,7 @@
 
 
 ## About This UI Slicing
->This is my entrepreneur project, we created a business where people can find a job and learn interviews too, because bored session in my day, I tried slicing the UI File from entre project. And here it is. btw my roll is UI UX in this project hahaha. But not all the design can implement in the app, but yea it's better than nothing. 
+>This is my entrepreneur project, we created a business where people can find a job and learn interviews too, because bored session in my day, I tried slicing the UI File from entre project. And here it is. btw my role is UI UX in this project hahaha. But not all the design can implement in the app, but yea it's better than nothing. 
 >I create this using **React Native** if you are interested in this repo just fork it and **npm i** on your terminal. 
 
 
