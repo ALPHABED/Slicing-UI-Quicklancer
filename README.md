@@ -7,8 +7,9 @@
 
 
 ## Preview
+
 #### Splash Screen
->When user first time open the app
+>When user first time open the app, this screen will appear like one second, and open next screen.
 ![Splash Screen](https://user-images.githubusercontent.com/66088196/240997001-d49297aa-2e8a-4639-b838-5b2bd32b8de5.png)
 
 #### Login Screen
@@ -27,7 +28,7 @@
 >In this page user can practice their skills or technical skills before entering interview or recruiting process
 ![Splash Screen](https://user-images.githubusercontent.com/66088196/240997456-2129aeb3-868b-4d3c-91aa-9a9474532606.png)
 
-# Talk Page
+#### Talk Page
 >The Idea of this page is user can talk and the system will answer like a human with the user, like a real interview. But I guess it is just possible for a normal interview without technical tests or related field
 ![Splash Screen](https://user-images.githubusercontent.com/66088196/240997528-4c8aad8f-31a9-4462-91cd-3ab467e7527f.png)
 
