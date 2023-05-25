@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
   },
   chipsContainer: {
     backgroundColor: GlobalStyles.COLORS.whiteCard,
-    paddingHorizontal: 8,
+    paddingHorizontal: 5,
     paddingVertical: 2.5,
     borderRadius: 5,
   },

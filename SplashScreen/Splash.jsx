@@ -22,19 +22,21 @@ const Splash = () => {
     <View style={styles.container}>
       <Stats />
 
-      <View>
-        <Image source={topLeft} />
-      </View>
+      <View style={styles.containerImage}>
+        <View>
+          <Image source={topLeft} />
+        </View>
 
-      <View style={styles.leftBottom}>
-        <Image source={leftBottom} />
-      </View>
+        <View style={styles.leftBottom}>
+          <Image source={leftBottom} />
+        </View>
 
-      <View style={styles.rightBottom}>
-        <Image source={bottomRight} />
-      </View>
-      <View style={styles.logo}>
-        <Image source={logo} resizeMode="contain" />
+        <View style={styles.rightBottom}>
+          <Image source={bottomRight} />
+        </View>
+        <View style={styles.logo}>
+          <Image source={logo} resizeMode="contain" />
+        </View>
       </View>
     </View>
   );
@@ -46,6 +48,11 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: GlobalStyles.COLORS.blue,
+  },
+
+  containerImage: {
+    height: GlobalStyles.SIZE.height,
+    width: GlobalStyles.SIZE.width,
   },
 
   logo: {

@@ -39,17 +39,16 @@ const Language = () => {
         }}
       />
       <Tab.Screen
-        name="Bookmark"
+        name="Mail"
         component={Message}
         options={{
           tabBarIcon: ({focused}) => (
             <BookIcon focused={focused} name="mail-outline" />
           ),
-          // tabBarBadge={}
         }}
       />
       <Tab.Screen
-        name="UI"
+        name="Work"
         component={Works}
         options={{
           tabBarIcon: ({focused}) => (

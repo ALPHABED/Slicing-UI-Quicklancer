@@ -45,7 +45,7 @@ const Login = () => {
 
             <View style={styles.textInput}>
               <TextInput
-                placeholder=".*_z'`\/x"
+                placeholder="e.g. ab_cd"
                 placeholderTextColor={GlobalStyles.COLORS.Gray500}
                 secureTextEntry={secureTextEntry}
               />

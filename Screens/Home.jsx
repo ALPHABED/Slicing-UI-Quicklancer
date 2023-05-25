@@ -29,12 +29,7 @@ const Home = () => {
               placeholderTextColor={GlobalStyles.COLORS.Gray500}
               placeholder="Cari"
               editable={true}
-              style={{
-                flex: 1,
-                paddingLeft: 10,
-                color: GlobalStyles.COLORS.Gray900,
-                fontSize: 18,
-              }}
+              style={styles.textInput}
             />
             <Feather
               name="search"
@@ -96,6 +91,13 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: GlobalStyles.COLORS.blue,
+  },
+
+  textInput: {
+    flex: 1,
+    paddingLeft: 10,
+    color: GlobalStyles.COLORS.Gray900,
+    fontSize: 18,
   },
 
   searchContainer: {
