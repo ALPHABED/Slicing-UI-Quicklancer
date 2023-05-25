@@ -17,7 +17,7 @@
 ![Splash Screen](https://user-images.githubusercontent.com/66088196/240997065-503150a5-835b-4e94-aded-d455efcd4489.png)
 
 #### Home Screen
->This is the first screen user interact with app where they can find related job, and user can find different job category
+>This is the first screen user interact with app where they can find related job, and user can find different category job 
 ![Splash Screen](https://user-images.githubusercontent.com/66088196/240997197-f343690e-c463-4a6a-911c-ecd2f2a75444.png)
 
 #### Mail Page
