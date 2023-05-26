@@ -2,7 +2,7 @@
 
 
 ## About This UI Slicing
->This is my entrepreneur project, we created a business where people can find a job and learn interviews too, because bored session in my day, I tried slicing the UI File from entre project. And here it is. btw my role is UI UX in this project hahaha. But not all the design can implement in the app, but yea it's better than nothing. 
+>This is my entrepreneur project, we created a business where people can find a job and learn interviews too, because bored session in my day, I tried slicing the UI File from entre project. And here it is. btw my role is UI UX in this project hahaha.
 >I create this using **React Native** if you are interested in this repo just fork it and **npm i** on your terminal. 
 
 
@@ -14,7 +14,7 @@
 ![Splash Screen](https://user-images.githubusercontent.com/66088196/240997001-d49297aa-2e8a-4639-b838-5b2bd32b8de5.png)
 
 #### Login Screen
->When user ask where they can login or choose continue with google or apple account
+>When user asked where they can login or choose continue with google or apple account
 
 ![Splash Screen](https://user-images.githubusercontent.com/66088196/240997065-503150a5-835b-4e94-aded-d455efcd4489.png)
 
